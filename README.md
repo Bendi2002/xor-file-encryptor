@@ -2,7 +2,7 @@
 
 Simple file encryptor using XOR with a hexadecimal key written in python.
 
-usage:
+Usage:
 ~~~
 python xor_py_encryptor.py [input file] [key in hex] [output file]
 ~~~
